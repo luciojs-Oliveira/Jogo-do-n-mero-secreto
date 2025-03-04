@@ -162,6 +162,46 @@ A tag head, depois de atualizada, fica assim:
 ...................................................................................................
 
 
+ Para saber mais: criando conta no GitHub e Vercel (passo a passo)
+ Próxima Atividade
+
+Criando a conta no GitHub
+O GitHub é uma plataforma de hospedagem de código-fonte e colaboração amplamente utilizada por pessoas desenvolvedoras de software para gerenciar e compartilhar projetos. Ele oferece recursos de controle de versão, permitindo que equipes de programadores trabalhem juntas de maneira eficiente, realizando alterações, revisões e resolvendo conflitos de código de forma colaborativa. É como se fosse a “rede social” de devs! 😀
+
+Além disso, o GitHub facilita o rastreamento de problemas e solicitações de pull, tornando o processo de desenvolvimento mais transparente e organizado.
+
+O primeiro passo para você criar uma conta no GitHub é acessar o site do GitHub através deste link e clicar em Sign up.
+
+Print da página inicial do GitHub com um campo de e-mail na parte inferior esquerda; no canto superior direito no topo da página há dois botões um de cadastro Sign up e o outro de login Sign in.
+
+Na sequência, você verá uma página como essa:
+
+Print da página de cadastro do GitHub onde há um campo de preenchimento de email no centro com um botão continue do lado direito.
+
+Faça o seguinte:
+
+Digite o seu e-mail;
+Crie uma senha;
+Digite um nome de usuário;
+Se desejar receber atualizações e anúncios de produtos por e-mail, digite "y" para sim ou "n" para não;
+Clica no botão Continue.
+Após preencher suas informações pessoais e clicar em Continue, clique em Create Account e você receberá uma confirmação de cadastro por email. Depois de validar sua conta é só utilizar os serviços do GitHub :)
+
+Criando a conta na Vercel
+A Vercel, por sua vez, é uma plataforma de hospedagem e implantação de aplicativos da web moderna, especializada em oferecer experiências de carregamento rápido e desempenho otimizado. Ela é frequentemente utilizada para hospedar sites estáticos e aplicações de página única (ou SPAs), aproveitando técnicas avançadas e eficiente aos usuários finais.
+
+A Vercel simplifica a implantação contínua e a escalabilidade automática, permitindo que os (as) desenvolvedores (as) concentrem-se na criação de excelentes experiências digitais sem se preocuparem com a complexidade subjacente da infraestrutura.
+
+Primeiro passo para você criar uma conta no Vercel é acessar o site do Vercel através deste link e clicar em Sign up.
+
+Print da página inicial da Vercel onde há um botão de Login e outro de cadastro Sign Up ambos no canto superior direito.
+
+Após clicar em Sing up você verá uma página como essa:
+
+Print d página de cadastro do Vercel com três botões no lado direito da página, com a primeira opção de iniciar com GitHub, segunda opção com GitLab e terceira opção com Bitbucket
+
+...................................................................................................
+
 
 
 
